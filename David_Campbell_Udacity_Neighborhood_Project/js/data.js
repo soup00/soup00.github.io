@@ -1,10 +1,5 @@
 var locations = [
     {
-        title: 'Dae Gee Korean BBQ',
-        lat: 39.8333825,
-        lng:  -105.052416
-    },
-    {
         title: 'Seoul Korean BBQ',
         lat: 39.6788,
         lng: -104.93507
@@ -44,9 +39,4 @@ var locations = [
         lat: 39.6615147,
         lng: -104.9180911
     },
-    {
-        title: 'Karma Asian',
-        lat: 39.7160891,
-        lng: -105.0572037
-    }
 ]
